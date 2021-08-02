@@ -36,10 +36,10 @@ Theory session on operation of PLL blocks.
 
 ![bd1](https://user-images.githubusercontent.com/52772201/127815125-a84e22bf-4c78-4330-87b3-deba11e96ac6.png)
 
-
+![fd](https://user-images.githubusercontent.com/52772201/127814557-751f48f0-09f7-4a1f-bf07-95180657e05d.png)
 ![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
 
-![fd](https://user-images.githubusercontent.com/52772201/127814557-751f48f0-09f7-4a1f-bf07-95180657e05d.png)
+
 Step 1: 
 
 EDA Setup
