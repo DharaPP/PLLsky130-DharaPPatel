@@ -64,30 +64,32 @@ Finite state diagram tells that UP signal will go high when neg edge of REF is d
 DOWN signal sets to one when neg edge of OUT is detected till the neg edge of REF detects.
 
 
-
 ![Uploading fsm.png…]()
 ![pfd](https://user-images.githubusercontent.com/52772201/127819229-0ac7b1ee-c866-4971-bf1d-6479140da4cb.png)
+![pfd](https://user-images.githubusercontent.com/52772201/127821900-0f829e35-d6f7-42a3-9421-6609dd20912d.png)
 
 ![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
-
 
 ![cpinitial](https://user-images.githubusercontent.com/52772201/127818195-afda7330-c5c6-430f-b6ff-689881495ced.png)
 
 ![cpoperation](https://user-images.githubusercontent.com/52772201/127821363-6635b93e-18ad-4f99-9874-6aea19f1457c.png)
 
 ![cp](https://user-images.githubusercontent.com/52772201/127821207-06d8023e-25dc-4d52-bd06-56d9f7016ca0.png)
-
-
+Charge pump initial condition
+![8](https://user-images.githubusercontent.com/52772201/127821919-d3a8ff33-0e34-48c4-b328-344adbf5546f.png)
 
 ![cpcode](https://user-images.githubusercontent.com/52772201/127817867-5415a035-b73f-4a19-84f5-a727f8115621.png)
+![cp2](https://user-images.githubusercontent.com/52772201/127821983-49dfb8c0-ff4f-4553-9bee-06690efb86b8.png)
 
+Voltage Controlled OScillator
 
-![7](https://user-images.githubusercontent.com/52772201/127813888-b56e1a1e-9d1c-4ea7-a871-4481da210fb9.png)
+current starving CMOS 3 stage ring oscillator: 
+![Uploading vcocircuit.png…]()
 
-![8](https://user-images.githubusercontent.com/52772201/127813900-36dff8e6-8cdd-4ee5-bac5-d64b6c2869f7.png)
+![vco](https://user-images.githubusercontent.com/52772201/127825477-a9e1602d-ebf0-4553-a611-4d224be25a5d.png)
 
 ![vcoout](https://user-images.githubusercontent.com/52772201/127818096-29b5bc12-f5b9-4334-ab9a-b4aec7826a1d.png)
-![pfdout](https://user-images.githubusercontent.com/52772201/127818309-683d106b-a815-48d9-9254-088631ae3e28.png)
+
 
 
 
