@@ -87,9 +87,11 @@ PFD produces the difference signal in pulse form that is given to charge pump. C
 
 Charge pump initial condition
 
+![cpcode](https://user-images.githubusercontent.com/52772201/127817867-5415a035-b73f-4a19-84f5-a727f8115621.png)
+
 ![8](https://user-images.githubusercontent.com/52772201/127821919-d3a8ff33-0e34-48c4-b328-344adbf5546f.png)
 
-![cpcode](https://user-images.githubusercontent.com/52772201/127817867-5415a035-b73f-4a19-84f5-a727f8115621.png)
+
 
 ![cp2](https://user-images.githubusercontent.com/52772201/127821983-49dfb8c0-ff4f-4553-9bee-06690efb86b8.png)
 
