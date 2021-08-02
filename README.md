@@ -33,6 +33,6 @@ Day : 1
 Step 1: 
 
 EDA Setup
-20.	Install Ng-spice for Transistor level Schematic Design on Ubuntu platform
-21.	Install Magic for layout design and parasitic extraction
+          I. Install Ng-spice for Transistor level Schematic Design on Ubuntu platform
+          II. Install Magic for layout design and parasitic extraction
 Ref: https://www.udemy.com/course/vsd-a-complete-guide-to-install-open-source-eda-tools/
