@@ -15,18 +15,17 @@ Day 1: PLL Theory and Lab setup
     8.	Layout design tool- Magic Setup
   
 Day 2: PLL labs and post-layout simulations
-
-    9.	PLL components circuit design
-    10.	PLL components circuit simulations
-    11.	Steps to combine PLL sub-circuits and PLL full design Simulations
-    12.	Troubleshooting steps
-    13.	Layout design
-    14.	Layout Walkthrough
-    15.	Parasitics extraction
-    16.	Post Layout simulations
-    17.	Steps to combine layouts
-    18.	Tapeout theory
-    19.	Tapeout labs
+      9.	PLL components circuit design
+     10.	PLL components circuit simulations
+     11.	Steps to combine PLL sub-circuits and PLL full design Simulations
+     12.	Troubleshooting steps
+     13.	Layout design
+     14.	Layout Walkthrough
+     15.	Parasitics extraction
+     16.	Post Layout simulations
+     17.	Steps to combine layouts
+     18.	Tapeout theory
+     19.	Tapeout labs
 
 Day : 1 
   
@@ -38,10 +37,6 @@ Generic block Diagram of PLL:
 Detailed Block Oriented block diagram of  PLL:
 
      ![bd1](https://user-images.githubusercontent.com/52772201/127815125-a84e22bf-4c78-4330-87b3-deba11e96ac6.png)
-
-![fd](https://user-images.githubusercontent.com/52772201/127814557-751f48f0-09f7-4a1f-bf07-95180657e05d.png)
-![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
-
 
 Step 1: 
 
@@ -60,17 +55,25 @@ Step 3: Model parameters are taken from google-skywater 130nm PDK
 Step 4: Make spice_lib folder comprises of TT corner mosfet files and parametrs files for required transistor parametreres. Add in library file.
         ![6](https://user-images.githubusercontent.com/52772201/127812320-6861e308-d83a-4ee0-8076-e24c50a783a0.png)
 
+Frequency Divide by 2 circuit using inverter and transmission gates.
+     ![fd](https://user-images.githubusercontent.com/52772201/127814557-751f48f0-09f7-4a1f-bf07-95180657e05d.png)
+Operation 
+![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
+
+
+![cpinitial](https://user-images.githubusercontent.com/52772201/127818195-afda7330-c5c6-430f-b6ff-689881495ced.png)
 
 
 
-
-
+![cpcode](https://user-images.githubusercontent.com/52772201/127817867-5415a035-b73f-4a19-84f5-a727f8115621.png)
 
 
 ![7](https://user-images.githubusercontent.com/52772201/127813888-b56e1a1e-9d1c-4ea7-a871-4481da210fb9.png)
 
 ![8](https://user-images.githubusercontent.com/52772201/127813900-36dff8e6-8cdd-4ee5-bac5-d64b6c2869f7.png)
 
+![vcoout](https://user-images.githubusercontent.com/52772201/127818096-29b5bc12-f5b9-4334-ab9a-b4aec7826a1d.png)
+![pfdout](https://user-images.githubusercontent.com/52772201/127818309-683d106b-a815-48d9-9254-088631ae3e28.png)
 
 
 
