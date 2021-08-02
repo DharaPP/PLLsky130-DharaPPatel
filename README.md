@@ -57,7 +57,10 @@ Step 4: Make spice_lib folder comprises of TT corner mosfet files and parametrs 
 
 Frequency Divide by 2 circuit using inverter and transmission gates.
      ![fd](https://user-images.githubusercontent.com/52772201/127814557-751f48f0-09f7-4a1f-bf07-95180657e05d.png)
-Operation 
+
+
+![fdcode](https://user-images.githubusercontent.com/52772201/127818956-3e61d792-d9f8-4d25-98cf-83efd90c8475.png)
+![7](https://user-images.githubusercontent.com/52772201/127818937-f7db425a-c456-44ce-a3d5-ca9481ab6ee7.png)
 ![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
 
 
