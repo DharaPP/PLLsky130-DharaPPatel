@@ -32,9 +32,12 @@ Day : 1
   
 Theory session on operation of PLL blocks.
 
-![bd](https://user-images.githubusercontent.com/52772201/127814948-fd84b187-64eb-4227-8f58-5f1917888f78.png)
+Generic block Diagram of PLL:
+     ![bd](https://user-images.githubusercontent.com/52772201/127814948-fd84b187-64eb-4227-8f58-5f1917888f78.png)
+     
+Detailed Block Oriented block diagram of  PLL:
 
-![bd1](https://user-images.githubusercontent.com/52772201/127815125-a84e22bf-4c78-4330-87b3-deba11e96ac6.png)
+     ![bd1](https://user-images.githubusercontent.com/52772201/127815125-a84e22bf-4c78-4330-87b3-deba11e96ac6.png)
 
 ![fd](https://user-images.githubusercontent.com/52772201/127814557-751f48f0-09f7-4a1f-bf07-95180657e05d.png)
 ![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
@@ -46,14 +49,10 @@ EDA Setup
           I. Install Ng-spice for Transistor level Schematic Design on Ubuntu platform
           II. Install Magic for layout design and parasitic extraction
 Ref: https://www.udemy.com/course/vsd-a-complete-guide-to-install-open-source-eda-tools/
-
 Step 2: Check the Ng-spice and Magic tool
-
-     ![magic](https://user-images.githubusercontent.com/52772201/127812103-e9f4a66e-e6e2-4e65-b600-18ab5e7de31b.png)
-
-     ![image](https://user-images.githubusercontent.com/52772201/127812015-97d12721-2462-447d-b44f-ac11931add04.png)
-     
-    
+       ![magic](https://user-images.githubusercontent.com/52772201/127812103-e9f4a66e-e6e2-4e65-b600-18ab5e7de31b.png)
+       ![image](https://user-images.githubusercontent.com/52772201/127812015-97d12721-2462-447d-b44f-ac11931add04.png)
+         
 Step 3: Model parameters are taken from google-skywater 130nm PDK
 
           ![3](https://user-images.githubusercontent.com/52772201/127812180-446bc87e-247a-4780-af35-23d13d6c3549.png)
