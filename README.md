@@ -29,6 +29,14 @@ Day 2: PLL labs and post-layout simulations
     19.	Tapeout labs
 
 Day : 1 
+  
+Theory session on operation of PLL blocks.
+
+![bd](https://user-images.githubusercontent.com/52772201/127814948-fd84b187-64eb-4227-8f58-5f1917888f78.png)
+
+![bd1](https://user-images.githubusercontent.com/52772201/127815125-a84e22bf-4c78-4330-87b3-deba11e96ac6.png)
+
+
 
 Step 1: 
 
@@ -50,4 +58,21 @@ Step 3: Model parameters are taken from google-skywater 130nm PDK
 
 Step 4: Make spice_lib folder comprises of TT corner mosfet files and parametrs files for required transistor parametreres. Add in library file.
         ![6](https://user-images.githubusercontent.com/52772201/127812320-6861e308-d83a-4ee0-8076-e24c50a783a0.png)
+
+
+
+
+
+
+
+
+![7](https://user-images.githubusercontent.com/52772201/127813888-b56e1a1e-9d1c-4ea7-a871-4481da210fb9.png)
+
+![8](https://user-images.githubusercontent.com/52772201/127813900-36dff8e6-8cdd-4ee5-bac5-d64b6c2869f7.png)
+
+![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
+
+![fd](https://user-images.githubusercontent.com/52772201/127814557-751f48f0-09f7-4a1f-bf07-95180657e05d.png)
+
+
 
