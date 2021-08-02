@@ -48,6 +48,6 @@ Step 3: Model parameters are taken from google-skywater 130nm PDK
 
           ![3](https://user-images.githubusercontent.com/52772201/127812180-446bc87e-247a-4780-af35-23d13d6c3549.png)
 
-Step 4: Make spice_lib folder comprises of TT corner mosfet files and parametrs files for required transistor parametreres.
+Step 4: Make spice_lib folder comprises of TT corner mosfet files and parametrs files for required transistor parametreres. Add in library file.
         ![6](https://user-images.githubusercontent.com/52772201/127812320-6861e308-d83a-4ee0-8076-e24c50a783a0.png)
 
