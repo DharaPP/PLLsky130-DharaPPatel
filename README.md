@@ -5,24 +5,25 @@ Attended 2 –Day silicon ready, tape out oriented workshop on “Phase Locked L
 2 days - Workshop was planned for below tasks:
 
 Day 1: PLL Theory and Lab setup
-1.	Introduction to PLL
-2.	Introduction to Phase Frequency Detector
-3.	Introduction to Charge Pump
-4.	Introduction to VCO and Frequency Divider
-5.	Tool Setup and design flow
-6.	Introduction to PDK, specifications and pre-layout circuits
-7.	Circuit design simulation tool-Ngspice setup
-8.	Layout design tool- Magic Setup
-  Day 2: PLL labs and post-layout simulations
+     1.	Introduction to PLL
+     2.	Introduction to Phase Frequency Detector
+     3.	Introduction to Charge Pump
+     4.	Introduction to VCO and Frequency Divider
+    5.	Tool Setup and design flow
+    6.	Introduction to PDK, specifications and pre-layout circuits
+    7.	Circuit design simulation tool-Ngspice setup
+    8.	Layout design tool- Magic Setup
+  
+Day 2: PLL labs and post-layout simulations
 
-9.	PLL components circuit design
-10.	PLL components circuit simulations
-11.	Steps to combine PLL sub-circuits and PLL full design Simulations
-12.	Troubleshooting steps
-13.	Layout design
-14.	Layout Walkthrough
-15.	Parasitics extraction
-16.	Post Layout simulations
-17.	Steps to combine layouts
-18.	Tapeout theory
-19.	Tapeout labs
+    9.	PLL components circuit design
+    10.	PLL components circuit simulations
+    11.	Steps to combine PLL sub-circuits and PLL full design Simulations
+    12.	Troubleshooting steps
+    13.	Layout design
+    14.	Layout Walkthrough
+    15.	Parasitics extraction
+    16.	Post Layout simulations
+    17.	Steps to combine layouts
+    18.	Tapeout theory
+    19.	Tapeout labs
