@@ -30,6 +30,7 @@ Day 2: PLL labs and post-layout simulations
 The individual blocks are designed and simulated in this report.
  
 Generic block Diagram of PLL:
+
      ![bd](https://user-images.githubusercontent.com/52772201/127814948-fd84b187-64eb-4227-8f58-5f1917888f78.png)
      
 Detailed Block Oriented block diagram of  PLL:
@@ -38,10 +39,13 @@ Detailed Block Oriented block diagram of  PLL:
 
 EDA Setup
           I. Install Ng-spice for Transistor level Schematic Design on Ubuntu platform
+          
           II. Install Magic for layout design and parasitic extraction
+          
 Ref: https://www.udemy.com/course/vsd-a-complete-guide-to-install-open-source-eda-tools/
 
 Step 2: Check the Ng-spice and Magic tool
+
        ![magic](https://user-images.githubusercontent.com/52772201/127812103-e9f4a66e-e6e2-4e65-b600-18ab5e7de31b.png)
        
        ![image](https://user-images.githubusercontent.com/52772201/127812015-97d12721-2462-447d-b44f-ac11931add04.png)
@@ -51,6 +55,7 @@ Model parameters are taken from google-skywater 130nm PDK
           ![3](https://user-images.githubusercontent.com/52772201/127812180-446bc87e-247a-4780-af35-23d13d6c3549.png)
 
 Make spice_lib folder comprises of TT corner mosfet files and parametrs files for required transistor parametreres. Add in library file.
+
         ![6](https://user-images.githubusercontent.com/52772201/127812320-6861e308-d83a-4ee0-8076-e24c50a783a0.png)
 
 Frequency Divider (FD) :
