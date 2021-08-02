@@ -27,6 +27,7 @@ Day 2: PLL labs and post-layout simulations
      18.	Tapeout theory
      19.	Tapeout labs
 
+The individual blocks are designed and simulated in this report.
  
 Generic block Diagram of PLL:
      ![bd](https://user-images.githubusercontent.com/52772201/127814948-fd84b187-64eb-4227-8f58-5f1917888f78.png)
