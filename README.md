@@ -63,12 +63,14 @@ Phase Frequency Divider (PFD)
 Finite state diagram tells that UP signal will go high when neg edge of REF is detected till the neg edge of OUT detects. 
 DOWN signal sets to one when neg edge of OUT is detected till the neg edge of REF detects.
 
-
 ![Uploading fsm.png…]()
 
 ![pfd](https://user-images.githubusercontent.com/52772201/127821900-0f829e35-d6f7-42a3-9421-6609dd20912d.png)
 
+Charge Pump (CP)
+PFD produces the difference signal in pulse form that is given to charge pump. CP converts the pulses into analog signal. For that current steering based ring oscillator is used. To acquire the average of UP and DOWN signal, capacitive load is used.
 ![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
+![cpcircuit](https://user-images.githubusercontent.com/52772201/127827219-c61d9a39-70df-4540-8ecd-73546ad18baa.png)
 
 ![cpinitial](https://user-images.githubusercontent.com/52772201/127818195-afda7330-c5c6-430f-b6ff-689881495ced.png)
 
