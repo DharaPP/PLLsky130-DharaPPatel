@@ -65,7 +65,7 @@ DOWN signal sets to one when neg edge of OUT is detected till the neg edge of RE
 
 
 ![Uploading fsm.png…]()
-![pfd](https://user-images.githubusercontent.com/52772201/127819229-0ac7b1ee-c866-4971-bf1d-6479140da4cb.png)
+
 ![pfd](https://user-images.githubusercontent.com/52772201/127821900-0f829e35-d6f7-42a3-9421-6609dd20912d.png)
 
 ![cp](https://user-images.githubusercontent.com/52772201/127814416-0b6bfc0e-30c9-4d52-a0d3-e6584bb8d621.png)
